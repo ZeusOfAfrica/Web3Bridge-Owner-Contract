@@ -1,13 +1,14 @@
 # Deployed Contract Addresses
 
-##(Foundry) Arc CA
+## (Foundry) Arc CA
 0x9A1bDbE6fDE043b31952b40e99B7688F7cA1d952
 
-##(Foundry) Lisk CA
+## (Foundry) Lisk CA
 0xaD4404A211a0FA901A83C253C1DeCfaC8581795A
 
-##(Hardhat) Arc CA
+## (Hardhat) Arc CA
 0xaD4404A211a0FA901A83C253C1DeCfaC8581795A
 
-##(Hardhat) Lisk CA
+## (Hardhat) Lisk CA
 0x9A1bDbE6fDE043b31952b40e99B7688F7cA1d952
+
